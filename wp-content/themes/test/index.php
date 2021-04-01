@@ -4,7 +4,7 @@
 <section id="hero">
     <div class="container">
         <header id="header" class="d-flex row">
-            <div class="col-8 col-md-9 col-lg-10">
+            <div class="col-8 col-md-11 col-lg-10">
                 <h1 class="text-dark dash-title"><?= get_field('title') ?></h1>
             </div>
             <div class="col-4 col-md-3 col-lg-2 header-button">
