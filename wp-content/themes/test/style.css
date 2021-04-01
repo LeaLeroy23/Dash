@@ -152,7 +152,7 @@ pre {
 }
 
 ::placeholder {
-    color: #EBEBEB;
+    color: #dfdfdf;
     font-size: 15px;
     padding-left: 4%;
 }
@@ -260,6 +260,7 @@ pre {
     border-radius: 2.25rem;
     border: 2px solid #EBEBEB;
 }
+
 
 
 @media (max-width: 575.98px) {
